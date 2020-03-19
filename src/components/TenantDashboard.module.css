@@ -1,0 +1,12 @@
+.mainDashbord {
+  display: table-caption !important;
+  border: 1px solid #cdcdcd;
+  border-radius: 5px;
+  padding: 5px;
+  background: #fff !important;
+  margin: 0px;
+  width: 100%;
+  float: left;
+  height: auto;
+  min-height: 90px !important;
+}
